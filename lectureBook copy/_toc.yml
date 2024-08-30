@@ -1,0 +1,17 @@
+format: jb-book
+root: intro
+parts:
+- caption: Data Analysis Basics
+  numbered: true
+  chapters:
+  - file: Matplotlib
+  - file: Pandas
+- caption: Data Analysis Technique
+  numbered: true
+  chapters:
+  - file: UnivariateAnalysis
+  - file: T-test
+  - file: Anova
+  - file: CrossTab
+  - file: PearsonsRTest
+  - file: Spearmanr test
